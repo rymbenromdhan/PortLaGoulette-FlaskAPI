@@ -1,4 +1,6 @@
+
 # Smart Port Management System (SPMS)
+![background](https://github.com/user-attachments/assets/37089a03-cad0-448c-891a-6f374a3a2632)
 
 This project is part of the Web Service class and focuses on the assigned topic: **Port La Goulette**. The objective is to design and implement an API to enhance the efficiency of port operations and stakeholder interactions.
 
